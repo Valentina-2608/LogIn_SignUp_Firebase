@@ -1,0 +1,16 @@
+{
+  "name": "firebase_login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1307.0",
+    "firebase": "^9.16.0"
+  }
+}
